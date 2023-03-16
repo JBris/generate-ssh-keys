@@ -1,2 +1,2 @@
 # generate-ssh-keys
-Generate new ssh keys in a not-so-secure way.
+Lazily generate new ssh keys in a not-so-secure way.
